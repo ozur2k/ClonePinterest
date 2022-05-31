@@ -20,6 +20,8 @@
         .text {
             white-space: nowrap;
             color: $red;
+
+            transition-duration: 1s;
         }
     }
 }
